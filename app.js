@@ -23,6 +23,8 @@ for(let select of dropdowns){
     });
 }
 
+
+//Part to change(or update Country's flag...)
 const updateFlag = (element) => {
     let currCode = element.value;
     let countryCode = countryList[currCode];

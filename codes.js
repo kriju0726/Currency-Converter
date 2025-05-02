@@ -1,3 +1,5 @@
+//Important shortcuts for list of country..
+
 const countryList = {
   AED: "AE",
   AFN: "AF",
